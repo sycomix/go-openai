@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	openaiAPIURLv1                 = "https://api.openai.com/v1"
+	openaiAPIURLv1                 = "http://172.23.119.151:8080"
 	defaultEmptyMessagesLimit uint = 300
 
 	azureAPIPrefix         = "openai"
